@@ -2,7 +2,7 @@ Pré-requisitos
 
 Antes de começar, certifique-se de ter os seguintes pré-requisitos instalados no seu sistema:
 
-    Go: A linguagem de programação Go.
+Go: A linguagem de programação Go.
 
 Instalação:
 
